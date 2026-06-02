@@ -1,0 +1,37 @@
+[
+  {
+    "employeeID": 1,
+    "employeeName": "Sandeep Hamal",
+    "department": "IT",
+    "jobRole": "Software Developer",
+    "salary": 32000
+  },
+  {
+    "employeeID": 2,
+    "employeeName": "Subham Chaudhary",
+    "department": "HR",
+    "jobRole": "HR Assistant",
+    "salary": 27000
+  },
+  {
+    "employeeID": 3,
+    "employeeName": "Prakash Sapp",
+    "department": "Finance",
+    "jobRole": "Accounts Officer",
+    "salary": 30000
+  },
+  {
+    "employeeID": 4,
+    "employeeName": "Majid Anwar",
+    "department": "IT",
+    "jobRole": "Data Analyst",
+    "salary": 34000
+  },
+  {
+    "employeeID": 5,
+    "employeeName": "Nick Patel",
+    "department": "Marketing",
+    "jobRole": "Marketing Executive",
+    "salary": 28000
+  }
+]

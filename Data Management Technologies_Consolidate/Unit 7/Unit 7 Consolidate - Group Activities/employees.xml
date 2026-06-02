@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee>
+    <employeeID>1</employeeID>
+    <employeeName>Sandeep Hamal</employeeName>
+    <department>IT</department>
+    <jobRole>Software Developer</jobRole>
+    <salary>32000</salary>
+  </employee>
+  <employee>
+    <employeeID>2</employeeID>
+    <employeeName>Subham Chaudhary</employeeName>
+    <department>HR</department>
+    <jobRole>HR Assistant</jobRole>
+    <salary>27000</salary>
+  </employee>
+  <employee>
+    <employeeID>3</employeeID>
+    <employeeName>Prakash Sapp</employeeName>
+    <department>Finance</department>
+    <jobRole>Accounts Officer</jobRole>
+    <salary>30000</salary>
+  </employee>
+  <employee>
+    <employeeID>4</employeeID>
+    <employeeName>Majid Anwar</employeeName>
+    <department>IT</department>
+    <jobRole>Data Analyst</jobRole>
+    <salary>34000</salary>
+  </employee>
+  <employee>
+    <employeeID>5</employeeID>
+    <employeeName>Nick Patel</employeeName>
+    <department>Marketing</department>
+    <jobRole>Marketing Executive</jobRole>
+    <salary>28000</salary>
+  </employee>
+</employees>

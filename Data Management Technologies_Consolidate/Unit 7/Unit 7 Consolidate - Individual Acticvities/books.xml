@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <title>Database Basics</title>
+    <author>Sandeep Ham</author>
+    <publicationYear>2021</publicationYear>
+  </book>
+  <book>
+    <title>Web Design Guide</title>
+    <author>Subham Chaudhary</author>
+    <publicationYear>2020</publicationYear>
+  </book>
+  <book>
+    <title>Python Made Easy</title>
+    <author>Prakash Sapp</author>
+    <publicationYear>2022</publicationYear>
+  </book>
+</books>
